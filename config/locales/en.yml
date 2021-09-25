@@ -30,4 +30,12 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  course:
+    created: 'Course created Successfully'
+    error: 'Course creation failed'
+  login:
+    failure:
+      invalid: 'Invalid username or password'
+      invalid_token: 'Invalid authentication token'
+    sessions:
+      signed_in: 'Signed in successfully.'
