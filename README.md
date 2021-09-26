@@ -16,6 +16,6 @@ Things you may want to cover:
 
 * How to run the test suite - rspec
 
-* Postman Collection - 
+* Postman Collection - https://www.getpostman.com/collections/654786f1b4f5b46cfc0f
 
 * ...
